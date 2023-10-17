@@ -1,0 +1,19 @@
+{
+  "name": "acacia-ma_img",
+  "version": "1.0.0",
+  "description": "图床图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acacia-Ma/Acacia-Ma_img.git"
+  },
+  "author": "Acacia-Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acacia-Ma/Acacia-Ma_img/issues"
+  },
+  "homepage": "https://github.com/Acacia-Ma/Acacia-Ma_img#readme"
+}
